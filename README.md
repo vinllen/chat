@@ -7,12 +7,12 @@ In Unix-like OS, this projects can chatting and sending file between two host. B
 
 1. Put the server code in server host, if you want test and doesn't have a server hos, you can contact me and use my server
 2. Start client
-3. Register the server address
-    register format:
-    [register] myname oppositeName
-    for example:
-    A register: [register] A B
-    B regisger: [register] B A
+3. Register the server address.
+    Register format:
+    [register] myname oppositeName <br \>
+    for example: <br \>
+    A register: [register] A B <br \>
+    B regisger: [register] B A <br \>
 4. It can chatting directly
 5. If you want to send file, use format: [file] filename <br \>
 6. Use [quit] to quit 
