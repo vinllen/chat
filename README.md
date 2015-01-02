@@ -5,7 +5,7 @@ In Unix-like OS, this projects can chatting and sending file between two host. B
 
 ======
 
-1. Put the server code in server host
+1. Put the server code in server host, if you want test and doesn't have a server hos, you can contact me and use my server
 2. Start client
 3. register the server address
 4. It can chatting directly
